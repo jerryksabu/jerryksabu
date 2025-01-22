@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm **[
+Hi, I'm 
+###
        _   ______   _____    _____   __     __    _  __     _____              ____    _    _ 
       | | |  ____| |  __ \  |  __ \  \ \   / /   | |/ /    / ____|     /\     |  _ \  | |  | |
       | | | |__    | |__) | | |__) |  \ \_/ /    | ' /    | (___      /  \    | |_) | | |  | |
@@ -16,8 +17,8 @@ Hi, I'm **[
                                                                                               
                                                                                               
                                                                                               
-                                                                                             
-]**, a passionate **Cybersecurity Student** with a keen interest in web development and security. I'm focused on building secure and efficient systems while diving deep into cybersecurity practices and techniques.
+ ###                                                                                       
+ a passionate **Cybersecurity Student** with a keen interest in web development and security. I'm focused on building secure and efficient systems while diving deep into cybersecurity practices and techniques.
 
 ## 🌱 I’m currently learning:
 - **[Technology/Topic 1]**  Network Security)
