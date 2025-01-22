@@ -1,23 +1,5 @@
-# Welcome to My GitHub Profile! 👋
-
-Hi, I'm 
-###
-       _   ______   _____    _____   __     __    _  __     _____              ____    _    _ 
-      | | |  ____| |  __ \  |  __ \  \ \   / /   | |/ /    / ____|     /\     |  _ \  | |  | |
-      | | | |__    | |__) | | |__) |  \ \_/ /    | ' /    | (___      /  \    | |_) | | |  | |
-  _   | | |  __|   |  _  /  |  _  /    \   /     |  <      \___ \    / /\ \   |  _ <  | |  | |
- | |__| | | |____  | | \ \  | | \ \     | |      | . \     ____) |  / ____ \  | |_) | | |__| |
-  \____/  |______| |_|  \_\ |_|  \_\    |_|      |_|\_\   |_____/  /_/    \_\ |____/   \____/ 
-                                                                                              
-                                                                                              
-                                                                                              
-                                                                                              
-                                                                                              
-                                                                                              
-                                                                                              
-                                                                                              
-                                                                                              
- ###                                                                                       
+# Welcome to My GitHub Profile! 
+  Hi i'm Jerry K Sabu 
  a passionate **Cybersecurity Student** with a keen interest in web development and security. I'm focused on building secure and efficient systems while diving deep into cybersecurity practices and techniques.
 
 ## 🌱 I’m currently learning:
