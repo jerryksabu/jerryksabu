@@ -1,25 +1,31 @@
-# Welcome to My GitHub Profile! 
-  Hi i'm Jerry K Sabu 
- a passionate **Cybersecurity Student** with a keen interest in web development and security. I'm focused on building secure and efficient systems while diving deep into cybersecurity practices and techniques.
+# 👋 Welcome to My GitHub Profile!
 
-## 🌱 I’m currently learning:
-- **[Technology/Topic 1]**  Network Security)
-- **[Technology/Topic 2]** Web Application Security
-- **[Technology/Topic 3]** Python Automation for Cybersecurity
-
-## 👯 I’m looking to collaborate on:
-- Cybersecurity-focused projects
-- Web application development with security features
-- Open source security tools and scripts
-
-## 💬 Ask me about:
-- Python programming for cybersecurity
-- Website auditing and penetration testing
-- Secure web development practices
+Hi, I'm **Jerry K Sabu**, a passionate **Cybersecurity Student** with a keen interest in **web development** and **security**. I'm focused on building secure and efficient systems while diving deep into cybersecurity practices and techniques.
 
 ---
 
-## 🚀 Technologies & Tools:
+## 🌱 **I’m currently learning:**
+- 📡 **Network Security**
+- 🛡️ **Web Application Security**
+- 🐍 **Python Automation for Cybersecurity**
+
+---
+
+## 👯 **I’m looking to collaborate on:**
+- 🔍 **Cybersecurity-focused projects**
+- 🌐 **Web application development with security features**
+- 🛠️ **Open source security tools and scripts**
+
+---
+
+## 💬 **Ask me about:**
+- 🐍 **Python programming for cybersecurity**
+- 🌐 **Website auditing and penetration testing**
+- 🔐 **Secure web development practices**
+
+---
+
+## 🚀 **Technologies & Tools:**
 - **Languages**: Python, Java, HTML, CSS, JavaScript
 - **Frameworks**: Flask, Bootstrap
 - **Cybersecurity**: Website Auditing, Vulnerability Assessment, Penetration Testing, Ethical Hacking
@@ -28,30 +34,31 @@
 
 ---
 
-## 🎯 Recent Projects
+## 🎯 **Recent Projects:**
 
-### 🔒 **[website clone]**
-- **Tech Used**: Html,CSS
-- [https://jerryksabu.github.io/web_clone/](#)
-- [https://jerryksabu.github.io/papergrid-webclone/](#)
+### 🔒 [Website Clone](https://jerryksabu.github.io/web_clone/)
+- **Tech Used**: HTML, CSS  
+[Live Demo](https://jerryksabu.github.io/web_clone/)
+[Live Demo](https://jerryksabu.github.io/papergrid-webclone/)
 
-### 🖥️ **[Personal Portfolio Website]**
+### 🖥️ [Personal Portfolio Website](https://jerryksabu.github.io/jerry-k-sabu-portfolio/)
 A responsive personal portfolio website designed with Bootstrap, showcasing projects and skills.
-- **Tech Used**: HTML, CSS, Bootstrap,js
-- [https://jerryksabu.github.io/jerry-k-sabu-portfolio/](#)
 
-### 🌐 **[Flask Web App - Security Dashboard]**
-A web app built with Flask for monitoring and securing web traffic.
-- **Tech Used**: Flask, HTML, CSS
-- [coming soon](#)
+- **Tech Used**: HTML, CSS, Bootstrap, JavaScript  
+[Live Demo](https://jerryksabu.github.io/jerry-k-sabu-portfolio/)
 
----
-
-## ⚡ Fun Fact:
-- I love solving CTF (Capture The Flag) challenges, exploring ethical hacking techniques, and improving my penetration testing skills.
+### 🌐 [Flask Web App - Security Dashboard](#)
+A web app built with Flask for monitoring and securing web traffic.  
+- **Tech Used**: Flask, HTML, CSS  
+_Coming soon..._
 
 ---
 
-## 🤝 Connect with me:
-- [Website](https://jerryksabu.github.io/jerry-k-sabu-portfolio/)
+## ⚡ **Fun Fact:**
+I love solving **CTF (Capture The Flag)** challenges, exploring ethical hacking techniques, and improving my penetration testing skills.
 
+---
+
+## 🤝 **Connect with me:**
+- 🌍 **Website**: [Your Website URL]((https://jerryksabu.github.io/jerry-k-sabu-portfolio/)
+  
