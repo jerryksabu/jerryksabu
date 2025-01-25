@@ -41,7 +41,8 @@ Hi, I'm **Jerry K Sabu**, a passionate **Cybersecurity Student** with a keen int
 ### 🖥️ [Personal Portfolio Website](https://jerryksabu.github.io/jerry-k-sabu-portfolio/)
 A responsive personal portfolio website designed with Bootstrap, showcasing projects and skills.
 
-- **Tech Used**: HTML, CSS, Bootstrap, JavaScript  
+- **Tech Used**: HTML, CSS, Bootstrap, JavaScript
+- 
 [Live Demo](https://jerryksabu.github.io/jerry-k-sabu-portfolio/)
 
 
@@ -49,14 +50,18 @@ A responsive personal portfolio website designed with Bootstrap, showcasing proj
 
 ### 🌐 [Flask Web App - Security Dashboard](#)
 A web app built with Flask for monitoring and securing web traffic.  
+
 - **Tech Used**: Flask, HTML, CSS
+- 
 - [Live Demo](https://github.com/jerryksabu/secure-login)
 - 
-)
+
 
 
 ### 🔒 [responsive website](https://jerryksabu.github.io/responsive-web/)
-- **Tech Used**: HTML, CSS ,Bootstrap 
+
+- **Tech Used**: HTML, CSS ,Bootstrap
+- 
 [Live Demo](https://jerryksabu.github.io/responsive-web/)
 
 
@@ -67,6 +72,7 @@ A web app built with Flask for monitoring and securing web traffic.
 A responsive personal portfolio website designed with Bootstrap, showcasing projects and skills.
 
 - **Tech Used**: HTML, CSS, Bootstrap,Flask
+- 
 [Live Demo](https://github.com/jerryksabu/jerry-portfolio-using-python)
 
 
@@ -74,7 +80,9 @@ A responsive personal portfolio website designed with Bootstrap, showcasing proj
 
 
 ### 🔒 [Website Clone](https://jerryksabu.github.io/web_clone/)
-- **Tech Used**: HTML, CSS  
+
+- **Tech Used**: HTML, CSS
+-  
 [Live Demo](https://jerryksabu.github.io/web_clone/)
 [Live Demo](https://jerryksabu.github.io/papergrid-webclone/)
 
@@ -83,10 +91,12 @@ A responsive personal portfolio website designed with Bootstrap, showcasing proj
 ---
 
 ## ⚡ **Fun Fact:**
+
 I love solving **CTF (Capture The Flag)** challenges, exploring ethical hacking techniques, and improving my penetration testing skills.
 
 ---
 
 ## 🤝 **Connect with me:**
+
 - 🌍 **Website**: [Your Website URL]((https://jerryksabu.github.io/jerry-k-sabu-portfolio/)
   
