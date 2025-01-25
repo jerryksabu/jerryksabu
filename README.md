@@ -34,12 +34,9 @@ Hi, I'm **Jerry K Sabu**, a passionate **Cybersecurity Student** with a keen int
 
 ---
 
-## 🎯 **Recent Projects:**
+## 🎯 **Recent Projects:**  
 
-### 🔒 [Website Clone](https://jerryksabu.github.io/web_clone/)
-- **Tech Used**: HTML, CSS  
-[Live Demo](https://jerryksabu.github.io/web_clone/)
-[Live Demo](https://jerryksabu.github.io/papergrid-webclone/)
+
 
 ### 🖥️ [Personal Portfolio Website](https://jerryksabu.github.io/jerry-k-sabu-portfolio/)
 A responsive personal portfolio website designed with Bootstrap, showcasing projects and skills.
@@ -47,11 +44,34 @@ A responsive personal portfolio website designed with Bootstrap, showcasing proj
 - **Tech Used**: HTML, CSS, Bootstrap, JavaScript  
 [Live Demo](https://jerryksabu.github.io/jerry-k-sabu-portfolio/)
 
+
+
 ### 🌐 [Flask Web App - Security Dashboard](#)
 A web app built with Flask for monitoring and securing web traffic.  
 - **Tech Used**: Flask, HTML, CSS
 - [Live Demo](https://github.com/jerryksabu/jerryksabu)
 )
+
+
+### 🔒 [responsive website](https://jerryksabu.github.io/responsive-web/)
+- **Tech Used**: HTML, CSS ,Bootstrap 
+[Live Demo](https://jerryksabu.github.io/responsive-web/)
+
+
+### 🖥️ [Personal Portfolio Website Using Python Flask](https://jerryksabu.github.io/jerry-portfolio-using-python/)
+A responsive personal portfolio website designed with Bootstrap, showcasing projects and skills.
+
+- **Tech Used**: HTML, CSS, Bootstrap,Flask
+[Live Demo](https://github.com/jerryksabu/jerry-portfolio-using-python)
+
+
+
+
+
+### 🔒 [Website Clone](https://jerryksabu.github.io/web_clone/)
+- **Tech Used**: HTML, CSS  
+[Live Demo](https://jerryksabu.github.io/web_clone/)
+[Live Demo](https://jerryksabu.github.io/papergrid-webclone/)
 
 
 
